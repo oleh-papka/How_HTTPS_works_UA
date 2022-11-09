@@ -1,6 +1,6 @@
 # Author
 translation:
-  source: "Переклад: Олег Папка [github](https://github.com/OlegPapka2) [LinkedIn](https://www.linkedin.com/in/oleh-papka-8b9ab0216/)"
+  source: "Переклад: Олег Папка [GitHub](https://github.com/OlegPapka2) [LinkedIn](https://www.linkedin.com/in/oleh-papka-8b9ab0216/) [Website](https://olegpapka2.github.io/)"
   text_direction: "ltr" # Set to "rtl" for right-to-left languages
 
 # Navigation
@@ -42,7 +42,7 @@ ep1:
   4: "Давайте спочатку поговоримо про приватність."
   5: "Я заручусь підтримкою своїх друзів."
   6: "no text"
-  7: "Я надсилаю повіlомлення Пташці-браузеру."
+  7: "Я надсилаю повідомлення Пташці-браузеру."
   8: "О ні! Це повідомлення не зашифроване!"
   9: "Краб прослуховує з'єднання для перехоплення повідомлень."
   10: "Ймовірно використовує для лихих цілей."
