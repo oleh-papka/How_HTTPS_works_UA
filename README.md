@@ -12,6 +12,7 @@ Check it out [here](https://howhttps.works/uk/).
 
 - [Oleh Papka](https://github.com/OlegPapka2) (translation)
 - [Yanina Horodetska](https://github.com/YanaHor) (text editing)
+- [Maksym Balbukh](https://github.com/balbukh) (text editing)
 
 ---
 
@@ -29,3 +30,4 @@ Check it out [here](https://howhttps.works/uk/).
 
 - [Олег Папка](https://github.com/OlegPapka2) (переклад)
 - [Яніна Городецька](https://github.com/YanaHor) (редактування тексту)
+- [Maksym Balbukh](https://github.com/balbukh) (редактування тексту)
